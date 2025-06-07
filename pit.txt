@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Landing page</title>
+    <link rel="stylesheet" href="main.css">
+    <style>
+        ul {
+            list-style: none;
+            padding: 0;
+            margin: 0;
+        }
+
+        /* li::before { 
+            content: "";
+        } */
+    </style>
+</head>
+<body>
+    <div>
+        <h2>Llacuna's Landing page.</h2>
+        <ul>
+            <li><p> <a href="https://llacuna750.github.io/">Portfolio.</a></p></li>
+            <li><p>PIT 2. <a href="https://llacuna750.github.io/gabriel.github.io/">Online Portfolio HTML Structure</a></p></li>
+            <li><p>PIT 3. <a href="https://llacuna750.github.io/dab.github.io">Portfolio with CSS Styling</a></p></li>
+            <li><p>PIT 4. <a href="https://llacuna750.github.io/courses.json/">Adding "Subjects Taken" to Your Portfolio</a></p></li>
+            <li><p>QUIZ 5. <a href="https://llacuna750.github.io/todo-app/">Enhanced To-Do List App</a></p></li>
+
+        </ul>
+    </div>
+</body>
+</html>`
